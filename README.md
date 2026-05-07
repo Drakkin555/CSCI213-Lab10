@@ -13,4 +13,4 @@ The main method prints:
 * time
 * number of students
 
-![img] (/images/slowpoke.png)
+![Slowpoke Image] (/images/slowpoke.png)
