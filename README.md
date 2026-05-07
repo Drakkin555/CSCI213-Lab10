@@ -13,4 +13,4 @@ added, CourseInfo.java
 * time
 * number of students
 
-![Slowpoke Image] (/images/slowpoke.png)
+![Slowpoke Image](/images/slowpoke.png)
